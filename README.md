@@ -1,5 +1,7 @@
 # **Alarme réfrigérateur**
 
+Ce projet à été réalisé par @Nazar.ZB @orokronos
+
 ### Voici le résultat finale : 
 
 [![video](https://img.youtube.com/vi/egfw8r3Ng3o/0.jpg)](https://www.youtube.com/watch?v=egfw8r3Ng3o)
